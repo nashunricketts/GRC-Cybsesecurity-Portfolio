@@ -22,16 +22,31 @@
   - [Fire Safety Components, PVC Pipe and Fittings, Galvanized Fittings](https://spanishviewequipment.com/) 
   
 <h2> 🎓 Certification</h2>
-
+- <b>CompTIA Security+ ce Certification</b>
+  - [Verified Skills Wallet:](https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3/public_url)
+<i>(Risk Management | Incident Response | Cryptography | Network Security | Identity and Access Management | Security Operations)</i>
+  
 - <b>CompTIA Security+ ce Certification</b>
   - [Verified Skills Wallet:](https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3/public_url)
 <i>(Risk Management | Incident Response | Cryptography | Network Security | Identity and Access Management | Security Operations)</i>
 
-<h2> 📚 I’m Currently Learning</h2>
+<h2> 📚 I’m currently learning</h2>
 
-- <b>CySA+ (CompTIA Cybersecurity Analyst)</b> <i>(Currently enhancing my skills in cybersecurity analytics, threat detection, and incident response through the CySA+ certification.</i>
+- <b>CySA+ (CompTIA Cybersecurity Analyst)</b>
+  - <i>Currently pursuing the <b>ComptIA CySA+ certification</b> | enhancing my skills in cybersecurity analytics, threat detection, and incident response.</i>  
 
-  
+<h2> 🚀 I’m currently working on...</h2>
+
+- <b>Cybersecurity Apprenticeship Program</b>
+  - <i>Enrolled in a 12-month program registered with the U.S. Department of Labor, earning <b>60 credit hours toward my bachelor's degree</b>. This program combines hands-on projects, mentorship, and online learning to build real-world skills.</i>
+    - <b>Cybersecurity Operations:</b> Threat detection, incident response, vulnerability scanning, and digital investigations. <br>  
+    - <b>Offensive Security:</b> Web penetration testing, solving Capture The Flag (CTF) challenges, and mapping information systems.<br>  
+    - <b>Defensive Security:</b> Securing critical infrastructure, managing supply chain risks, and assessing compliance with frameworks like NIST and ISO 27001.<br>  
+    - <b>Automation and Scripting:</b> Writing Python scripts to automate security tasks, such as neutralizing compromised files and identifying Indicators of Compromise (IOCs).<br>  
+    - <b>Cybersecurity Governance:</b> Raising employee awareness, developing user charters, and improving supplier security policies.
+
+
+
 <h2> 🙋🏽‍♂️ Connect with me:</h2>
 
 
