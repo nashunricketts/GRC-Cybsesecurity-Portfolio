@@ -1,4 +1,78 @@
-<h1>Hi, I'm Nash! <br/><a href="https://www.linkedin.com/in/nashun-ricketts/">Cybersecurity Specialist</a> | <a href="https://rickettstech.com/portfolio/">Web Designer</a> | <a href="https://rickettstech.com/blog/">Security Writer</a></h1>
+<h1>Hi, I'm Nash!</h1> <br/><h2><a href="https://www.linkedin.com/in/nashun-ricketts/">Cybersecurity Specialist</a> | <a href="https://rickettstech.com/portfolio/">Web Designer</a> | <a href="https://rickettstech.com/blog/">Security Writer</a></h2>
+
+# Hello, I'm Nash!
+<a href="https://www.linkedin.com/in/nashun-ricketts"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+My journey into cybersecurity has been shaped by hands-on experience in governance, risk, and compliance (GRC). With a strong foundation in ISO 27001, SOC 2 Type II, and NIST frameworks, I’ve supported audit readiness, control assessments, and risk management initiatives that led to measurable improvements in security posture. I’m passionate about bridging technical controls with business needs to build resilient, compliant environments.
+
+## Objective
+I am seeking a remote GRC Analyst role where I can apply my skills in control mapping, risk register management, and compliance documentation to help organizations strengthen their security programs and achieve continuous audit readiness.
+
+## 🛡️ Core GRC Skills
+
+| Skill                                            | Associated Project         |
+|--------------------------------------------------|----------------------------|
+| Control Framework Mapping & Gap Analysis         | <a href="https://www.linkedin.com/in/nashun-ricketts">Framework Mapping Lab</a>|
+| Risk Register Development & Remediation Tracking | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
+| Audit Readiness & Compliance Documentation       | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
+| Third-Party Risk Management                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
+| Security Awareness & Policy Development          | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
+
+## 🧩 Compliance Frameworks
+Experienced in applying and aligning security controls across major industry frameworks to support audit readiness, risk reduction, and continuous compliance:
+
+- <b>ISO/IEC 27001:</b> Led audit preparation and control implementation across multiple business lines, achieving zero non-conformities.
+
+- <b>SOC 2 Type II:</b> Supported readiness campaigns through gap analysis, control mapping, and stakeholder documentation.
+
+- <b>NIST Cybersecurity Framework (CSF):</b> Used for risk assessments, third-party evaluations, and control maturity tracking.
+
+- <b>PCI-DSS:</b> Applied controls for secure handling of cardholder data across client websites and internal systems.
+
+- <b>HIPAA & GDPR:</b> Maintained compliance for healthcare and e-commerce clients through access controls, encryption, and logging standards.
+
+### 🛠️ GRC Tools & Techniques
+Risk register management, control crosswalking, gap analysis, remediation tracking, policy development, audit readiness
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### 📁 Documentation & Reporting
+Security standards, stakeholder-ready control artifacts, compliance documentation, training materials, third-party risk assessments
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### 🔍 Assessment & Testing
+Vulnerability assessment, penetration testing (VAPT), access audits, control evaluations, incident response coordination
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### ⚙️ Security Technologies
+Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk SIEM, OSSEC HIDS
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+## 📚 Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2 CC-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## 🧩 Projects
+- Detection Lab
+- SOC Automation Project
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
