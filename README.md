@@ -72,25 +72,40 @@ Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk S
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-## 📚 Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2 CC-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+## 🪪 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EF3B2D?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
+  </a>
+  <a href="https://www.credly.com/badges/2e3c3b2e-1a6e-4b9c-9f2e-9d9e3f2e2e2e">
+    <img src="https://img.shields.io/badge/ISC2-CC-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC">
+  </a>
+  <a href="https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3">
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EF3B2D?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+">
+  </a>
+  <a href="https://www.credly.com/org/cisco/badge/ethical-hacker">
+    <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1679A7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker">
+  </a>
+  <a href="https://www.credly.com/org/cisco/badge/cyber-threat-management">
+    <img src="https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1679A7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management">
+  </a>
+</p>
+
+
 
 ## 🧩 Projects
 - Detection Lab
 - SOC Automation Project
 
-<h2>🛡️ Cybersecurity Projects:</h2>
+<h2>🛡️ Security Operations Center (SOC) Projects:</h2>
 
 - <b>Penetration Testing Capstone - Coding Dojo Graduation Project</b>
   - [Ethical Hacking](#)
 
+<h1> 🚀Other Transferrable Tech Skills:</h1>
 
-<h2>👨‍💻 Web Design Projects:</h2>
+<h3>👨‍💻 Web Design Projects:</h3>
 
 - <b>Restaurant Website | Boston, MA</b>
   - [Jamaican restaurtant in Boston, MA with Doordash Delivery App integrated](https://876eatsandpizza.com/)
@@ -105,40 +120,11 @@ Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk S
 - <b>Industrial Plumbing Supplies | Ocho Rios, Jamaica</b>
   - [Fire Safety Components, PVC Pipe and Fittings, Galvanized Fittings](https://spanishviewequipment.com/) 
   
-<h2> 🎓 Certification</h2>
-- <b>CompTIA Security+ ce Certification</b>
-  - [Verified Skills Wallet:](https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3/public_url)
-<i>(Risk Management | Incident Response | Cryptography | Network Security | Identity and Access Management | Security Operations)</i>
-  
-- <b>CompTIA Security+ ce Certification</b>
-  - [Verified Skills Wallet:](https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3/public_url)
-<i>(Risk Management | Incident Response | Cryptography | Network Security | Identity and Access Management | Security Operations)</i>
-
-<h2> 📚 I’m currently learning</h2>
-
-- <b>CySA+ (CompTIA Cybersecurity Analyst)</b>
-  - <i>Currently pursuing the <b>ComptIA CySA+ certification</b> | enhancing my skills in cybersecurity analytics, threat detection, and incident response.</i>  
-
-<h2> 🚀 I’m currently working on...</h2>
-
-- <b>Cybersecurity Apprenticeship Program</b>
-  - <i>Enrolled in a 12-month program registered with the U.S. Department of Labor, earning <b>60 credit hours toward my bachelor's degree</b>. This program combines hands-on projects, mentorship, and online learning to build real-world skills.</i>
-    - <b>Cybersecurity Operations:</b> Threat detection, incident response, vulnerability scanning, and digital investigations. <br>  
-    - <b>Offensive Security:</b> Web penetration testing, solving Capture The Flag (CTF) challenges, and mapping information systems.<br>  
-    - <b>Defensive Security:</b> Securing critical infrastructure, managing supply chain risks, and assessing compliance with frameworks like NIST and ISO 27001.<br>  
-    - <b>Automation and Scripting:</b> Writing Python scripts to automate security tasks, such as neutralizing compromised files and identifying Indicators of Compromise (IOCs).<br>  
-    - <b>Cybersecurity Governance:</b> Raising employee awareness, developing user charters, and improving supplier security policies.
-
-
 
 <h2> 🙋🏽‍♂️ Connect with me:</h2>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nashun-ricketts)
 
-[<img align="left" alt="NashRicketts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/nashun-ricketts/
 
 <!--
 **nashunricketts/nashcyberlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
