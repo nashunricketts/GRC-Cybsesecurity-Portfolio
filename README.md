@@ -11,7 +11,7 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 
 | Skill                                      | Associated Project         |
 |--------------------------------------------|----------------------------|
-| Third-Party Compliance and Risk Analysis   | <a href="https://www.linkedin.com/in/nashun-ricketts">Business Review and Assessment</a>|
+| Third-Party Compliance and Risk Analysis   | <a href="[https://www.linkedin.com/in/nashun-ricketts](https://github.com/nashunricketts/Third-Party-Supplier-Compliance-and-Risk-Assessment)">Business Review and Assessment</a>|
 | Gap Analysis                               | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
 | Compliance Assessment                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
 | Risk Prioritization                        | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
