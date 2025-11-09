@@ -1,7 +1,6 @@
-<h1>Hi, I'm Nash!</h1> <br/><h2><a href="https://www.linkedin.com/in/nashun-ricketts/">Cybersecurity Specialist</a> | <a href="https://rickettstech.com/portfolio/">Web Designer</a> | <a href="https://rickettstech.com/blog/">Security Writer</a></h2>
-
 # Hello, I'm Nash!
-<a href="https://www.linkedin.com/in/nashun-ricketts"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/><h3><a href="https://www.linkedin.com/in/nashun-ricketts/">Cybersecurity Professional</a> | <a href="https://rickettstech.com/portfolio/">Web Designer</a> | <a href="https://rickettstech.com/blog/">Security Writer</a></h3>
+<a href="https://www.linkedin.com/in/nashun-ricketts"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.credly.com/users/nashun-ricketts/badges#credly"><img src="https://img.shields.io/badge/Verify My Credentials-F36F21?style=for-the-badge" /></a>
 
 My journey into cybersecurity has been shaped by hands-on experience in governance, risk, and compliance (GRC). With a strong foundation in ISO 27001, SOC 2 Type II, and NIST frameworks, I’ve supported audit readiness, control assessments, and risk management initiatives that led to measurable improvements in security posture. I’m passionate about bridging technical controls with business needs to build resilient, compliant environments.
 
