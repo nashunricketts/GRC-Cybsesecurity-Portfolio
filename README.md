@@ -9,23 +9,20 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 
 ## 🛡️ Core GRC Skills
 
-| Skill                                      | Associated Project         |
-|--------------------------------------------|----------------------------|
-| Third-Party Compliance and Risk Analysis   | <a href="https://github.com/nashunricketts/Third-Party-Supplier-Compliance-and-Risk-Assessment">Business Review and Assessment</a>|
-| Gap Analysis                               | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
-| Compliance Assessment                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
-| Risk Prioritization                        | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
-| Mitigation & Monitoring                    | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
-
-## 🛡️ Core GRC Skills - Copy
-
 | Skill                                            | Associated Project         |
 |--------------------------------------------------|----------------------------|
-| Control Framework Mapping & Gap Analysis         | <a href="https://www.linkedin.com/in/nashun-ricketts">Framework Mapping Lab</a>|
-| Risk Register Development & Remediation Tracking | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
-| Audit Readiness & Compliance Documentation       | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
-| Third-Party Risk Management                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
-| Security Awareness & Policy Development          | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
+| Third-Party Risk & Compliance Evaluation         | <a href="https://github.com/nashunricketts/Third-Party-Supplier-Compliance-and-Risk-Assessment">Business Risk Assessment for NIST audit</a>|
+| Compliance Assessment & Gap Analysis             | <a href="https://www.linkedin.com/in/nashun-ricketts">ISO 27001 vs NIST CSF control mapping spreadsheet</a>|
+| Risk Prioritization & Mitigation Planning        | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk register with impact scoring and mitigation plans</a>|
+| Risk Register Development & Remediation Tracking | <a href="https://www.linkedin.com/in/nashun-ricketts">Excel tracker for remediation status and audit prep</a>|
+| Control Framework Mapping                        | <a href="https://www.linkedin.com/in/nashun-ricketts">Unified control map across NIST CSF, PCI-DSS, and ISO 27001</a>|
+| Audit Readiness & Evidence Collection            | <a href="https://www.linkedin.com/in/nashun-ricketts">Audit binder with annotated screenshots and walkthroughs</a>|
+| Compliance Reporting & Executive Communication   | <a href="https://www.linkedin.com/in/nashun-ricketts">Executive summary deck for SOC 2 Type II readiness</a>|
+| Security Awareness Training & Engagement         | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness campaign with phishing simulation results</a>|
+| Policy Development & Lifecycle Management        | <a href="https://www.linkedin.com/in/nashun-ricketts">Acceptable Use Policy with version control and review log</a>|
+| Governance Structure & Role Definition           | <a href="https://www.linkedin.com/in/nashun-ricketts">RACI chart for GRC roles across business units</a>|
+| Regulatory Intelligence & Change Management      | <a href="https://www.linkedin.com/in/nashun-ricketts">Tracker for evolving privacy laws (GDPR, CCPA, etc.)</a>|
+| Tabletop Exercises & Incident Simulation         | <a href="https://www.linkedin.com/in/nashun-ricketts">Incident response tabletop scenario with facilitator guide</a>|
 
 
 ## 🧩 Compliance Frameworks
@@ -43,11 +40,7 @@ Experienced in applying and aligning security controls across major industry fra
 
 ### 🛠️ GRC Tools & Techniques
 Risk register management, control crosswalking, gap analysis, remediation tracking, policy development, audit readiness
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+
 
 ### 📁 Documentation & Reporting
 Security standards, stakeholder-ready control artifacts, compliance documentation, training materials, third-party risk assessments
@@ -56,21 +49,6 @@ Security standards, stakeholder-ready control artifacts, compliance documentatio
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### 🔍 Assessment & Testing
-Vulnerability assessment, penetration testing (VAPT), access audits, control evaluations, incident response coordination
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### ⚙️ Security Technologies
-Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk SIEM, OSSEC HIDS
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
 ## 🪪 Certifications & Badges
 
@@ -93,16 +71,31 @@ Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk S
   </a>
 </p>
 
+## 🧩 Core SOC Skills
 
+| Skill                                            | Associated Project         |
+|--------------------------------------------------|----------------------------|
+| Penetration Testing Capstone         | <a href="https://www.linkedin.com/in/nashun-ricketts">Coding Dojo Graduation Project</a>|
+| Risk Register Development & Remediation Tracking | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
+| Audit Readiness & Compliance Documentation       | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
+| Third-Party Risk Management                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
+| Security Awareness & Policy Development          | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
 
-## 🧩 Projects
-- Detection Lab
-- SOC Automation Project
+### 🔍 Assessment & Testing
+Vulnerability assessment, penetration testing (VAPT), access audits, control evaluations, incident response coordination
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<h2>🛡️ Security Operations Center (SOC) Projects:</h2>
-
-- <b>Penetration Testing Capstone - Coding Dojo Graduation Project</b>
-  - [Ethical Hacking](#)
+### ⚙️ Security Technologies
+Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk SIEM, OSSEC HIDS
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BurpSuite-EF3B2D?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-777BB4?&style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
 
 <h1> 🚀Other Transferrable Tech Skills:</h1>
 
