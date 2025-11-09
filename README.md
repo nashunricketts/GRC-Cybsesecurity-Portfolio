@@ -79,11 +79,12 @@ Wireshark, Kali Linux, Metasploit, Nessus, Nmap, Burp Suite, Snort IDS, Splunk S
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-EF3B2D?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
   </a>
   <a href="https://www.credly.com/badges/2e3c3b2e-1a6e-4b9c-9f2e-9d9e3f2e2e2e">
-    <img src="https://img.shields.io/badge/ISC2-CC-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC">
+    <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC">
   </a>
   <a href="https://www.credly.com/badges/87dc2681-1edf-431e-a783-7f8b7e8282a3">
     <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EF3B2D?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+">
-  </a>
+  </a> 
+    <br>
   <a href="https://www.credly.com/org/cisco/badge/ethical-hacker">
     <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1679A7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker">
   </a>
