@@ -9,13 +9,13 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 
 ## 🛡️ Core GRC Skills
 
-| Skill                                                 | Associated Project         |
-|-------------------------------------------------------|----------------------------|
-| Third-Party Supplier Compliance and Risk Assessment   | <a href="https://www.linkedin.com/in/nashun-ricketts">Business Review and Assessment</a>|
-| Gap Analysis                                          | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
-| Compliance Assessment                                 | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
-| Risk Prioritization                                   | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
-| Mitigation & Monitoring                               | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
+| Skill                                      | Associated Project         |
+|--------------------------------------------|----------------------------|
+| Third-Party Compliance and Risk Analysis   | <a href="https://www.linkedin.com/in/nashun-ricketts">Business Review and Assessment</a>|
+| Gap Analysis                               | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
+| Compliance Assessment                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
+| Risk Prioritization                        | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
+| Mitigation & Monitoring                    | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
 
 ## 🛡️ Core GRC Skills - Copy
 
