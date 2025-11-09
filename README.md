@@ -9,6 +9,16 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 
 ## 🛡️ Core GRC Skills
 
+| Skill                                                 | Associated Project         |
+|-------------------------------------------------------|----------------------------|
+| Third-Party Supplier Compliance and Risk Assessment   | <a href="https://www.linkedin.com/in/nashun-ricketts">Business Review and Assessment</a>|
+| Gap Analysis                                          | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk Register Management Lab</a>|
+| Compliance Assessment                                 | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
+| Risk Prioritization                                   | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
+| Mitigation & Monitoring                               | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
+
+## 🛡️ Core GRC Skills - Copy
+
 | Skill                                            | Associated Project         |
 |--------------------------------------------------|----------------------------|
 | Control Framework Mapping & Gap Analysis         | <a href="https://www.linkedin.com/in/nashun-ricketts">Framework Mapping Lab</a>|
@@ -16,6 +26,7 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 | Audit Readiness & Compliance Documentation       | <a href="https://www.linkedin.com/in/nashun-ricketts">Gap Analysis Documentation Lab</a>|
 | Third-Party Risk Management                      | <a href="https://www.linkedin.com/in/nashun-ricketts">Supply Chain Risk Assessment Lab</a>|
 | Security Awareness & Policy Development          | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness Policy Lab</a>|
+
 
 ## 🧩 Compliance Frameworks
 Experienced in applying and aligning security controls across major industry frameworks to support audit readiness, risk reduction, and continuous compliance:
