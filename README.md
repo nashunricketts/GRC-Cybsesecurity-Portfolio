@@ -11,18 +11,19 @@ I am seeking a remote GRC Analyst role where I can apply my skills in control ma
 
 | Skill                                            | Associated Project         |
 |--------------------------------------------------|----------------------------|
-| Third-Party Risk & Compliance Evaluation         | <a href="https://github.com/nashunricketts/Third-Party-Supplier-Compliance-and-Risk-Assessment">Business Risk Assessment for NIST audit</a>|
-| Compliance Assessment & Gap Analysis             | <a href="https://www.linkedin.com/in/nashun-ricketts">ISO 27001 vs NIST CSF control mapping spreadsheet</a>|
-| Risk Prioritization & Mitigation Planning        | <a href="https://www.linkedin.com/in/nashun-ricketts">Risk register with impact scoring and mitigation plans</a>|
-| Risk Register Development & Remediation Tracking | <a href="https://www.linkedin.com/in/nashun-ricketts">Excel tracker for remediation status and audit prep</a>|
-| Control Framework Mapping                        | <a href="https://www.linkedin.com/in/nashun-ricketts">Unified control map across NIST CSF, PCI-DSS, and ISO 27001</a>|
-| Audit Readiness & Evidence Collection            | <a href="https://www.linkedin.com/in/nashun-ricketts">Audit binder with annotated screenshots and walkthroughs</a>|
-| Compliance Reporting & Executive Communication   | <a href="https://www.linkedin.com/in/nashun-ricketts">Executive summary deck for SOC 2 Type II readiness</a>|
-| Security Awareness Training & Engagement         | <a href="https://www.linkedin.com/in/nashun-ricketts">Awareness campaign with phishing simulation results</a>|
-| Policy Development & Lifecycle Management        | <a href="https://www.linkedin.com/in/nashun-ricketts">Acceptable Use Policy with version control and review log</a>|
-| Governance Structure & Role Definition           | <a href="https://www.linkedin.com/in/nashun-ricketts">RACI chart for GRC roles across business units</a>|
-| Regulatory Intelligence & Change Management      | <a href="https://www.linkedin.com/in/nashun-ricketts">Tracker for evolving privacy laws (GDPR, CCPA, etc.)</a>|
-| Tabletop Exercises & Incident Simulation         | <a href="https://www.linkedin.com/in/nashun-ricketts">Incident response tabletop scenario with facilitator guide</a>|
+| Third-Party Risk & Compliance Evaluation         | <a href="https://github.com/nashunricketts/GRC-Cybsesecurity-Portfolio/blob/main/Supplier%20Risk%20Assessment.md">Business Risk Assessment for NIST audit</a>|
+| Compliance Assessment & Gap Analysis             | <a href="https://github.com/nashunricketts/GRC-Cybsesecurity-Portfolio/blob/main/docs/Milestone%202%20%7C%20Gap%20Analysis.md">Gap Analysis</a>|
+| Risk Prioritization                              | <a href="https://github.com/nashunricketts/GRC-Cybsesecurity-Portfolio/blob/main/docs/Milestone%204%20%7C%20Risk%20Prioritization.md">Risk Prioritization</a>|
+| Risk Mitigation                                  | <a href="https://github.com/nashunricketts/GRC-Cybsesecurity-Portfolio/blob/main/docs/Milestone%205%20%7C%20Mitigation%20%26%20Monitoring.md">Risk Mitigation</a>|
+| Risk Register Development & Remediation Tracking | Excel tracker for remediation status and audit prep
+| Control Framework Mapping                        | Unified control map across NIST CSF, PCI-DSS, and ISO 27001
+| Audit Readiness & Evidence Collection            | Audit binder with annotated screenshots and walkthroughs
+| Compliance Reporting & Executive Communication   | <a href="https://github.com/nashunricketts/GRC-Cybsesecurity-Portfolio/blob/main/docs/Milestone%206%20%7C%20Executive%20Presentation.md">Executive Presentation</a>|
+| Security Awareness Training & Engagement         | Awareness campaign with phishing simulation results
+| Policy Development & Lifecycle Management        | Acceptable Use Policy with version control and review log
+| Governance Structure & Role Definition           | RACI chart for GRC roles across business units
+| Regulatory Intelligence & Change Management      | Tracker for evolving privacy laws (GDPR, CCPA, etc.)
+| Tabletop Exercises & Incident Simulation         | Incident response tabletop scenario with facilitator guide
 
 
 ## 🧩 Compliance Frameworks
